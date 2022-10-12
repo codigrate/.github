@@ -1,11 +1,20 @@
 <p align="center">
-  <a href="https://opentemplatehub.com">
-    <img src="https://raw.githubusercontent.com/codigrate/codigrate.github.io/master/assets/logo/brand-logo.png" alt="Logo" width=200>
+  <a href="https://codigrate.com">
+    <img src="https://raw.githubusercontent.com/codigrate/codigrate.github.io/master/assets/logo/light/inline.png" alt="Logo" width=400>
   </a>
 </p>
 
-<h1 align="center">
-Codigrate
-</h1>
+# 
 
 Code integration made easy. We're providing software consultancy and SAAS solutions to tech companies.
+
+#
+<p align="right">
+  <a href="mailto:info@codigrate.com">
+  info@codigrate.com
+  </a>
+  </br>
+  <a href="https://codigrate.com">
+  www.codigrate.com
+  </a>
+</p>
