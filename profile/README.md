@@ -54,6 +54,16 @@ Integrating your business with payment service providers can be challenging. We 
   </a>
 </p>
 
+## Plugins and Themes
+
+Plugins and themes made by Codigrate.
+
+<p align="center">
+  <a href="https://codigrate.com">
+    <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/everest-theme/icon.png" alt="Logo" width="170">
+  </a>
+</p>
+
 ## Business Partners
 
 Create and run your online business with Codigrate and our partners.
