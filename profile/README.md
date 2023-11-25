@@ -60,7 +60,7 @@ Plugins and themes made by Codigrate.
 
 <p align="center">
   <a href="https://codigrate.com">
-    <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/everest-theme/icon.png" alt="Logo" width="170">
+    <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature-themes/aurora-borealis-theme/icon.png" alt="Logo" width="170">
   </a>
 </p>
 
