@@ -56,7 +56,7 @@ Integrating your business with payment service providers can be challenging. We 
 
 ## Plugins and Themes
 
-Our team made plugins and themes for IDEs.
+We specialize in crafting plugins and themes for IDEs, enhancing development environments for greater productivity and a more relaxing experience.
 
 <p align="center">
   <a href="https://codigrate.com">
