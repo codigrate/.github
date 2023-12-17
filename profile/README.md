@@ -56,7 +56,7 @@ Integrating your business with payment service providers can be challenging. We 
 
 ## Plugins and Themes
 
-Plugins and themes made by Codigrate.
+Our team made plugins and themes for IDEs.
 
 <p align="center">
   <a href="https://codigrate.com">
