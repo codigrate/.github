@@ -59,7 +59,7 @@ Integrating your business with payment service providers can be challenging. We 
 We specialize in crafting plugins and themes for IDEs, enhancing development environments for greater productivity and a more relaxing experience.
 
 <p align="center">
-  <a href="https://codigrate.com">
+  <a href="https://plugins.jetbrains.com/organizations/Codigrate">
     <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature-themes/aurora-borealis-theme/icon.png" alt="Logo" width="170">
   </a>
 </p>
