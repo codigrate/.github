@@ -64,16 +64,6 @@ We specialize in crafting plugins and themes for IDEs, enhancing development env
   </a>
 </p>
 
-## Business Partners
-
-Create and run your online business with Codigrate and our partners.
-
-<p align="center">
-  <a href="https://codigrate.com">
-    <img src="https://raw.githubusercontent.com/codigrate/codigrate.github.io/master/assets/third-parties/badge/github.png" alt="Logo" width="300">
-  </a>
-</p>
-
 ## Contact Us
 
 Our team integrated countless third-party APIs for businesses. Please reach out to us if you have questions about our services.
