@@ -64,9 +64,17 @@ We specialize in crafting plugins and themes for IDEs, enhancing development env
   </a>
 </p>
 
-## Contact Us
+## Team Behind Codigrate
 
-Our team integrated countless third-party APIs for businesses. Please reach out to us if you have questions about our services.
+We are here to help you
+
+<table>
+   <tr>
+      <td align="center"><a href="https://github.com/furknyavuz"><img src="https://codigrate.com/en-US/assets/employee/circle/0000.png" width="100px;" alt=""/><br /><sub><b>Furkan Yavuz</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/mertlsarac"><img src="https://avatars.githubusercontent.com/u/38442589?v=4" width="100px;" alt=""/><br /><sub><b>Mert Sarac</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/kerimalp"><img src="https://codigrate.com/en-US/assets/employee/circle/0002.png" width="100px;" alt=""/><br /><sub><b>Kerim Alp Kaya</b></sub></a><br /></td>
+   </tr>
+</table>
 
 <p align="right">
   <a href="mailto:info@codigrate.com">
