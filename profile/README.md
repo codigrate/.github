@@ -60,7 +60,7 @@ We specialize in crafting plugins and themes for IDEs, enhancing development env
 
 <p align="center">
   <a href="https://plugins.jetbrains.com/organizations/Codigrate">
-    <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature-themes/aurora-borealis-theme/icon.png" alt="Logo" width="170">
+    <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature/aurora-borealis-theme/icon.png" alt="Logo" width="170">
   </a>
 </p>
 
